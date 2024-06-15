@@ -14,7 +14,7 @@
 
 ## Notes
 
-- [#F9F9F9 is nice white color instead of #FFFFFF](https://twitter.com/helvetiica/status/1500168178424586246)
+- [F9F9F9 is nice white color instead of FFFFFF](https://twitter.com/helvetiica/status/1500168178424586246)
 
 ## Links
 
@@ -195,7 +195,7 @@
 - [color-contrast in CSS](https://twitter.com/ctnicholasdev/status/1561349849542381569)
 - [How to make a Color Picker in Unity](https://astridwilde.com/tutorials/colorpicker/)
 - [Splashy](https://github.com/microlinkhq/splashy) - Given an whatever image (GIF, PNG, WebP, AVIF, etc) extract predominant & palette colors.
-- [#HEXWORDS](https://hexwords.netlify.app/) - Small web-app to filter from a list of hex colors that are similar to words. ([Code](https://github.com/paoloricciuti/hexwords))
+- [HEXWORDS](https://hexwords.netlify.app/) - Small web-app to filter from a list of hex colors that are similar to words. ([Code](https://github.com/paoloricciuti/hexwords))
 - [Ok Color Picker](https://ok-color-picker.netlify.app/) - Pick colors using the Okhsv and Okhsl color spaces. ([Code](https://github.com/holbrookdev/ok-color-picker))
 - [Palette](https://palette.fm/) - Colorize Photos.
 - [Everything you need to know about color in design](https://twitter.com/danqing_liu/status/1579536039139758080)

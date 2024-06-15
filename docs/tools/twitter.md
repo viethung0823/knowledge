@@ -84,9 +84,9 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 
 ## Interesting hash tags
 
-- [#WomensArt](https://twitter.com/hashtag/WomensArt)
-- [#VisibleWomen](https://twitter.com/hashtag/VisibleWomen)
-- [#коточетверг](https://twitter.com/hashtag/%D0%BA%D0%BE%D1%82%D0%BE%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3)
+- [WomensArt](https://twitter.com/hashtag/WomensArt)
+- [VisibleWomen](https://twitter.com/hashtag/VisibleWomen)
+- [коточетверг](https://twitter.com/hashtag/%D0%BA%D0%BE%D1%82%D0%BE%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D0%B3)
 
 ## Notes
 
@@ -197,7 +197,7 @@ article[data-testid="tweet"] div:has(> a[aria-label*="View Tweet analytics"]) {
 - [Rebuilding Twitter’s Public API (2021)](https://www.youtube.com/watch?v=axFSaH_-IMw)
 - [Twitter API v2 sample code](https://github.com/twitterdev/Twitter-API-v2-sample-code) - Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).
 - [BlackMagic.so](https://blackmagic.so/) - Twitter Growth Tool. ([Sidebar](https://blackmagic.so/sidebar/)) ([Tweet](https://twitter.com/tdinh_me/status/1469555195596054529))
-- [#buildinpublic](https://buildinpublic.com/) - Discover what people are building in public.
+- [buildinpublic](https://buildinpublic.com/) - Discover what people are building in public.
 - [Twitter's new visual design system](https://twitter.com/ashlie/status/1425506038506147840) ([Tweet](https://twitter.com/TwitterDesign/status/1425505308563099650))
 - [TidyTweets](https://tidytweets.org/) - Tidy up your Following list on Twitter. ([Code](https://github.com/rlueder/tidytweets))
 - [twilens](https://github.com/ciffelia/twilens) - Full-text search for your tweets.

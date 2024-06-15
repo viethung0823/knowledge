@@ -241,7 +241,7 @@ If you get a chance to see [Nils Frahm](https://www.nilsfrahm.com), [Hania Rani]
 - [MEZERG - WELCOME THEREMIN](https://www.youtube.com/watch?v=l-rlFaSBLg8)
 - [Friday night music straight to your living room from Sam Aaron](https://www.youtube.com/watch?v=30jgHE--U0o&)
 - [Sting And Shaggy: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=bdneye4pzMw)
-- [Tones And I #StayHome live performance](https://www.youtube.com/watch?v=191GBbfJ818&list=PLhNeRwBqkeSXYOqmUgAutxYFszp4uTGs_&index=2)
+- [Tones And I StayHome live performance](https://www.youtube.com/watch?v=191GBbfJ818&list=PLhNeRwBqkeSXYOqmUgAutxYFszp4uTGs_&index=2)
 - [Anthems for a Seventeen Year-Old Girl - Broken Social Scene - Live from Here](https://www.youtube.com/watch?v=E_7DXtsE5vQ)
 - [Broken Social Scene - Full Performance (Live on KEXP)](https://www.youtube.com/watch?v=e5wX1GInr6U)
 - [Yo-Yo Ma: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=3uiUHvET_jg)

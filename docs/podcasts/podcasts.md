@@ -38,7 +38,7 @@ It includes:
 - [Hope in Source](https://overcast.fm/itunes1437677655/hope-in-source) - What are the parallels between faith and open source software?
 - [How I Built This with Guy Raz](https://overcast.fm/itunes1150510297/how-i-built-this-with-guy-raz) - Guy Raz dives into the stories behind some of the world’s best known companies.
 - [HTTP 203](https://overcast.fm/itunes1042283903/http-203) - Where Surma and Jake occasionally talk web.
-- [Inside Remote](https://overcast.fm/itunes1475773111/inside-remote) - Dives deep into various topics of #remotework.
+- [Inside Remote](https://overcast.fm/itunes1475773111/inside-remote) - Dives deep into various topics of remotework.
 - [The Joe Rogan Experience](https://overcast.fm/itunes360084272/the-joe-rogan-experience) - Joe Rogan’s Weekly Podcast.
 - [Kevin Rose Show](https://overcast.fm/itunes1088864895/the-kevin-rose-show) - Kevin Rose interviews and explores new ways to reach peak personal and professional performance.
 - [The Knowledge Project with Shane Parrish](https://overcast.fm/itunes990149481/the-knowledge-project-with-shane-parrish) - Mastering the Best of What Other People Have Figured Out.

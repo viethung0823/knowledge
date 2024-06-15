@@ -173,7 +173,7 @@
 - [Performance vs Programming Effort between Rust and C on Multicore Architectures: Case Study in N-Body (2021)](https://arxiv.org/abs/2107.11912)
 - [Strict memcpy() bounds checking for the kernel (2021)](https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/) ([HN](https://news.ycombinator.com/item?id=28015263))
 - [strcpy: a niche function you don't need (2021)](https://nullprogram.com/blog/2021/07/30/) ([Lobsters](https://lobste.rs/s/3fxmpq/strcpy_niche_function_you_don_t_need))
-- [#ifdef Considered Harmful, or Portability Experience with C News (1992)](http://www.literateprogramming.com/ifdefs.pdf)
+- [ifdef Considered Harmful, or Portability Experience with C News (1992)](http://www.literateprogramming.com/ifdefs.pdf)
 - [Ocean](https://github.com/riicchhaarrd/ocean) - Programming language lik C that compiles into a x86 ELF executable. ([HN](https://news.ycombinator.com/item?id=28048528))
 - [The (too) many pitfalls of VLA in C (2021)](https://blog.joren.ga/vla-bad)
 - [The Descent to C (2013)](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) ([HN](https://news.ycombinator.com/item?id=28378627))

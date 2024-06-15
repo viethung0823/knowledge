@@ -741,7 +741,7 @@ cargo watch -q -x "run -q" # watch for Rust files and run on changes
 - [Diving Deep: implied bounds and variance (2022)](https://lcnr.de/blog/diving-deep-implied-bounds-and-variance/)
 - [Some mistakes Rust doesn't catch (2022)](https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch) ([Lobsters](https://lobste.rs/s/5jrhuk/some_mistakes_rust_doesn_t_catch)) ([HN](https://news.ycombinator.com/item?id=30253426)) ([Reddit](https://www.reddit.com/r/rust/comments/sn9eus/some_mistakes_rust_doesnt_catch/)) ([Tweet](https://twitter.com/fasterthanlime/status/1490834679251226625))
 - [if-else chains considered harmful (2022)](https://ihatereality.space/05-if-else-chains-considered-harmful/)
-- [Dare to ask for more #rust2024](http://smallcultfollowing.com/babysteps//blog/2022/02/09/dare-to-ask-for-more-rust2024/)
+- [Dare to ask for more rust2024](http://smallcultfollowing.com/babysteps//blog/2022/02/09/dare-to-ask-for-more-rust2024/)
 - [Rust on iOS and Mac Catalyst: A Simple, Updated Guide (2022)](https://nadim.computer/posts/2022-02-11-maccatalyst.html)
 - [A Rust match made in hell (2022)](https://fasterthanli.me/articles/a-rust-match-made-in-hell) ([Reddit](https://www.reddit.com/r/programming/comments/sqhbkf/a_rust_match_made_in_hell/))
 - [What makes ripgrep so fast? (2022)](https://www.reddit.com/r/rust/comments/sr02aj/what_makes_ripgrep_so_fast/)

@@ -203,7 +203,7 @@ I go over how I personally approach solving individual tasks [here](../research/
 - [Tasking developers with creating detailed estimates is a waste of time (2020)](https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42) ([HN](https://news.ycombinator.com/item?id=29275659))
 - [Preparing for the (semi-)annual planning](https://twitter.com/GergelyOrosz/status/1461034113822044171)
 - [Why do large companies do planning once, max twice a year?](https://twitter.com/GergelyOrosz/status/1462016666003554308)
-- [#NoEstimates (Allen Holub) (2021)](https://www.youtube.com/watch?v=QVBlnCTu9Ms) ([Tweet](https://twitter.com/jollife/status/1461990386470162435))
+- [NoEstimates (Allen Holub) (2021)](https://www.youtube.com/watch?v=QVBlnCTu9Ms) ([Tweet](https://twitter.com/jollife/status/1461990386470162435))
 - [The Martian Design Sprint: starting and running projects faster (2021)](https://evilmartians.com/chronicles/the-martian-design-sprint-starting-and-running-projects-faster)
 - [Best thing you've done to work better with your product manager? (2021)](https://twitter.com/GergelyOrosz/status/1464285290684723206)
 - [How I Own Projects as a Software Engineer (2021)](https://neilkakkar.com/How-I-Own-Projects-as-a-Software-Engineer.html)

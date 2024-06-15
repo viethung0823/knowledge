@@ -349,7 +349,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Typography of 2001: A Space Odyssey (2014)](https://typesetinthefuture.com/2014/01/31/2001-a-space-odyssey/) ([HN](https://news.ycombinator.com/item?id=28857373))
 - [OSP-foundry](http://osp.kitchen/foundry/) - All fonts produced by OSP.
 - [Examples of the letter ‘B’ through history](https://twitter.com/SebLester/status/1451918896458514439)
-- [#calligraphy - Twitter](https://twitter.com/hashtag/calligraphy?src=hashtag_click)
+- [calligraphy - Twitter](https://twitter.com/hashtag/calligraphy?src=hashtag_click)
 - [Process Type Foundry](https://processtypefoundry.com/) ([Twitter](https://twitter.com/processtype))
 - [Practica Program](https://www.practicaprogram.com/) - Learn typeface design, together. ([Twitter](https://twitter.com/practicatype))
 - [Coding Font](https://www.codingfont.com/) - Game to find your favorite coding font. ([HN](https://news.ycombinator.com/item?id=29010443)) ([Lobsters](https://lobste.rs/s/rfaj1q/play_game_find_your_true_love_coding_fonts))

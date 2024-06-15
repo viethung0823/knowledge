@@ -194,7 +194,7 @@ I write [Rust](rust/rust.md) or [Zig](zig/zig.md) when I want to write embedded 
 - [Brown University PLT](http://cs.brown.edu/research/plt/) ([GitHub](https://github.com/brownplt))
 - [DSL might be the answer (2021)](https://blog.royalsloth.eu/posts/dsl-might-be-the-answer/)
 - [PL Funding Panel with the Creators of Elm, Elixir, and Julia (2021)](https://www.youtube.com/watch?v=f0ouXATi25Iindex=8)
-- [#PLTalk - YouTube](https://www.youtube.com/playlist?list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1)
+- [PLTalk - YouTube](https://www.youtube.com/playlist?list=PLS2jJcAXR9IgLdhf2C74ms_aS4mZKuZJ1)
 - [Programming Languages for Enthusiasts](https://github.com/prathyvsh/pl-catalog)
 - [Mathematically Structured Programming Group @ University of Strathclyde](http://msp.cis.strath.ac.uk/)
 - [Women in Programming Languages and Software Engineering Research](https://github.com/jeanqasaur/women-in-programming-languages-research)

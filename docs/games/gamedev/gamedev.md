@@ -201,7 +201,7 @@
 - [MServer](https://github.com/changnet/MServer) - Mini Distributed Game Server.
 - [Lightweight Websocket library a simple game server in Go? (2021)](https://www.reddit.com/r/golang/comments/nmues9/lightweight_websocket_library_a_simple_game_server/)
 - [Pixel Thief](https://thief.bradwoods.io/) - Learn how to build a game using XState & React.
-- [#PitchYaGame - Twitter](https://twitter.com/hashtag/PitchYaGame)
+- [PitchYaGame - Twitter](https://twitter.com/hashtag/PitchYaGame)
 - [Ask HN: Game development for non-game developers (2021)](https://news.ycombinator.com/item?id=27408023)
 - [Entity Component System architectures (and why you should care)](https://dev.to/endershadow8/entity-component-system-architectures-and-why-you-should-care-59ja) ([Lobsters](https://lobste.rs/s/w2vbib/entity_component_system_architectures))
 - [Half-Life 1 engine based games](https://github.com/ValveSoftware/halflife)

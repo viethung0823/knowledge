@@ -61,7 +61,7 @@ title: Roam Research
 - [Roam’s road ahead (2020)](https://divinations.substack.com/p/roams-road-ahead)
 - [How Roam knows how pages and blocks are related to each other](https://roamresearch.com/#/app/Rob-Haisfield-Thinking-in-Public/page/ueY7f9Adm)
 - [Academic roaming](https://www.academicroaming.com/)
-- [Roam Digest](https://roamdigest.com/) - Fresh dose of #roamcult from around the web.
+- [Roam Digest](https://roamdigest.com/) - Fresh dose of roamcult from around the web.
 - [Recovering Lost Roam Notes (2020)](https://jeffchen.dev/posts/Recovering-Lost-Roam-Notes/) ([HN](https://news.ycombinator.com/item?id=24944574))
 - [Building a roam-like, networked, heavily-customized realtime editor (2020)](https://namiwang.github.io/2020/11/12/building-a-roam-like-networked-heavily-customized-realtime-editor-part-1.html) ([HN](https://news.ycombinator.com/item?id=25177290))
 - [Automatic RoamResearch backup](https://github.com/MatthieuBizien/roam-to-git)
